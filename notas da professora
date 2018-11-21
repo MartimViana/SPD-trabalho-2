@@ -1,0 +1,18 @@
+Apache spark e apache graphX
+
+Ver a componente de visualização ("o que faz um bom gráfico?").
+
+"Gostaria de algo como um tutorial"
+
+Duas componentes:
+	- Manipulação de dados (Spark)
+	- Visualização dos dados (GraphX)
+
+
+Explicação:
+
+	tolerancia a faltas
+	segurança
+	casos práticos
+
+TRABALHO PARA DUAS SEMANAS!
